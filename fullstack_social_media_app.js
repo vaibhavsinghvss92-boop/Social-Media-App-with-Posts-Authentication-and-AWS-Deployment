@@ -1,0 +1,1 @@
+<the full single code for Social Media App with Posts, Authentication, and AWS Deployment from the previous message>
